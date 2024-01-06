@@ -1,0 +1,70 @@
+/* all css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(180, 168, 114, 0.603);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  padding: 75px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+/* select all class - css */
+p {
+  margin-top: 100;
+}
+
+/* first class */
+.first {
+  color: red;
+}
+
+/* second class */
+.second {
+  color: rgb(199, 0, 183);
+}
+
+/* id css */
+#linkedin-image {
+  border: 5px solid rgb(0, 30, 86);
+}
+
+/* id css */
+#your-name {
+  border: 5px solid rgb(0, 30, 86);
+  padding: 25px;
+  margin-top: 23px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+/* link */
+a {
+  background-color: yellow;
+}
+
+/* form id and <p> */
+#your-name p {
+  color: aquamarine;
+}
+
+#linkedin-image {
+  width: 200px;
+}
